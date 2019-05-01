@@ -28,7 +28,7 @@ iOS not implemented.
 # Install
 
 ```
-tns plugin add nativescript-google-maps-utils
+tns plugin add nativescript-google-maps-utils-ns5
 ```
 
 # Usage
