@@ -1,7 +1,7 @@
 android { 
 	productFlavors {
-		"nativescript-google-maps-utils" {
-			dimension "nativescriptgooglemapsutils"
+		"nativescript-google-maps-utils-ns5" {
+			dimension "nativescriptgooglemapsutilsns5"
 		}
 	}
 }

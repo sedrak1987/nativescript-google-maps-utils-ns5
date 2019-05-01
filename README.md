@@ -61,6 +61,6 @@ function onMapReady(args) {
 
 import using either of
 
-* `import GoogleMapsUtils = require("nativescript-google-maps-utils")`
-* `import * as GoogleMapsUtils from "nativescript-google-maps-utils"`
+* `import GoogleMapsUtils = require("nativescript-google-maps-utils-ns5")`
+* `import * as GoogleMapsUtils from "nativescript-google-maps-utils-ns5"`
 
